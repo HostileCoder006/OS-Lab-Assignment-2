@@ -120,12 +120,6 @@ in the above order without causing a deadlock.
 
 ---
 
-## 📸 Output Screenshots
-<img width="955" height="910" alt="Task1_Input png" src="https://github.com/user-attachments/assets/e83d3bda-fb92-40e6-9f91-39a0e7c1d495" />
-<img width="955" height="910" alt="Task2_NeedMatrix png" src="https://github.com/user-attachments/assets/ef7e4746-1e8a-46b4-ba41-a519fbc109ff" />
-<img width="955" height="910" alt="Task3_Task4_Task5_Output png" src="https://github.com/user-attachments/assets/259b94e1-610f-44d6-af57-a123515273da" />
-
-
 ## 📚 Theory
 
 The **Banker's Algorithm** works like a bank:
