@@ -1,13 +1,5 @@
 # 🏦 OS Lab Assignment 2 — Banker's Algorithm for Deadlock Avoidance
 
-**Course:** Operating System Lab (ENCA252)  
-**Program:** BCA (AI & DS) (Research)  
-**Institution:** K.R. Mangalam University — School of Engineering & Technology  
-**Submitted By:** RAKESH G (2401201064)  
-**Submitted To:** Jyoti Yadav  
-
----
-
 ## 📌 Problem Statement
 
 Deadlock is a situation in operating systems where a set of processes are unable to proceed because each is waiting for resources held by others. **Banker's Algorithm** is a deadlock avoidance technique that ensures the system remains in a safe state.
@@ -149,4 +141,3 @@ Need[i][j] = Maximum[i][j] - Allocation[i][j]
 
 ---
 
-*K.R. Mangalam University | BCA (AI & DS) | 2026-2027*
